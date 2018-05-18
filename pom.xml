@@ -17,11 +17,11 @@
   <distributionManagement>
 
 		<repository>
-			<id>repoR</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoR/</url>
+			<id>sujitha3</id>
+			<url>http://localhost:8081/nexus/content/repositories/sujitha3/</url>
 		</repository>
 		<snapshotRepository>
-			<id>repoS</id>
+			<id>sujitha2</id>
 			<url>http://http://localhost:8081/nexus/content/repositories/sujitha2/</url>
 		</snapshotRepository>		
   </distributionManagement>
