@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>sujitha3</id>
-			<url>http://localhost:8081/nexus/content/repositories/sujitha3/</url>
+			<id>releases</id>
+			<url>http://localhost:8081/nexus/content/repositories/Releases/</url>
 		</repository>
 		<snapshotRepository>
-			<id>sujitha2</id>
-			<url>http://http://localhost:8081/nexus/content/repositories/sujitha2/</url>
+			<id>snapshots</id>
+			<url>http://http://localhost:8081/nexus/content/repositories/Snapshots/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
